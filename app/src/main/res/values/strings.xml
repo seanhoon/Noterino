@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Noterino</string>
+    <string name="create_note_header">CREATE NOTE</string>
+</resources>
